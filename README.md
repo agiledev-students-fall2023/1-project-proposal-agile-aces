@@ -43,9 +43,9 @@ The project aims to create a secure, user-friendly platform for NYU students to 
 
 Responsibilities could be divided among:
 
-    - Database Management: Handling user data and listings.
-    - UI/UX Design: Crafting an intuitive user experience.
-    - Backend Development: Implementing core functionalities.
-    - Security: Ensuring robust verification and data protection.
+- Database Management: Handling user data and listings.
+- UI/UX Design: Crafting an intuitive user experience.
+- Backend Development: Implementing core functionalities.
+- Security: Ensuring robust verification and data protection.
 
 The scope is challenging yet feasible, offering a rewarding experience for the team while delivering a valuable service to the NYU community. Future enhancements and extensions can be considered based on initial success.
