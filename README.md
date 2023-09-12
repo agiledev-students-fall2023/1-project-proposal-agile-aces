@@ -1,5 +1,6 @@
 # Project Proposal
 
+# Project Title:
 ## Secondhand Goods Trading Platform
 
 ### Group Members: 
@@ -38,4 +39,13 @@ Our Secondhand Goods Trading Platform is designed exclusively for New York Unive
 
 ### Scope
 
-A brief justification that the proposal is neither too easy nor too ambitious for a group of approximately 4 - 6 programmers to undertake in one semester.
+The project aims to create a secure, user-friendly platform for NYU students to trade secondhand goods. With features like personalized profiles, item listings, advanced search options, and a review system, the project is a multifaceted endeavor that offers enough complexity to engage a team of 5 programmers. However, it is designed to be achievable within a semester.
+
+Responsibilities could be divided among:
+
+    - Database Management: Handling user data and listings.
+    - UI/UX Design: Crafting an intuitive user experience.
+    - Backend Development: Implementing core functionalities.
+    - Security: Ensuring robust verification and data protection.
+
+The scope is challenging yet feasible, offering a rewarding experience for the team while delivering a valuable service to the NYU community. Future enhancements can be considered based on initial success.
