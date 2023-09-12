@@ -48,4 +48,4 @@ Responsibilities could be divided among:
     - Backend Development: Implementing core functionalities.
     - Security: Ensuring robust verification and data protection.
 
-The scope is challenging yet feasible, offering a rewarding experience for the team while delivering a valuable service to the NYU community. Future enhancements can be considered based on initial success.
+The scope is challenging yet feasible, offering a rewarding experience for the team while delivering a valuable service to the NYU community. Future enhancements and extensions can be considered based on initial success.
