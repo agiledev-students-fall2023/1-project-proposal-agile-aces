@@ -1,36 +1,36 @@
 # Project Proposal
-### Project title
 
-Give your project a nice title.
+## Secondhand Goods Trading Platform
+
+### Group Members: Paul Dai, Anthony Li, Steven Li, Anita Ye, Siqi Wang
 
 ### What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+We propose to build a secondhand goods trading platform targeting college students specifically. College students, who often possess a limited amount of disposable income, are always circumscribed by a budget when they are adding school supplies, buying furniture, or making purchases in general. Therefore, we will establish a platform for college students to buy and sell reliable second-hand products with a budget-friendly price tag.
 
 ### For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+Our Secondhand Goods Trading Platform is designed exclusively for New York University(NYU) students wary of fraudulent transactions in online marketplaces. To ensure a community exclusively comprising NYU students, every account is rigorously verified by a third-party entity overseen by the platform's back office, confirming the user's affiliation with NYU. This initiative fosters a culture of responsible consumption and trust within the NYU community, providing a reliable and hassle-free trading environment.
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+1. Personalized User Profiles:
+    - Users create profiles with their preferred pseudonym, offering them a sense of identity and privacy.
+    - Users can add their contact information. 
+    - Provide authentication for each student to ensure security.
+    - Profiles showcase items they're selling, their ratings, and reviews from other users.
+
+2. Item Listings:
+    - Users can post items they want to sell. They provide details like a title, description, price, and optional images. This feature allows sellers to showcase their items to potential buyers.
+    - Users can delete items that are already sold or they decide not to sell.
+
+3. Advanced Search & Filters:
+    - Buyers can search for specific items and use filters like category, price range, location, and seller rating.
+
+4. Community-Driven Review & Rating System
+    - Buyers can rate sellers and leave reviews; sellers can also rate buyers to ensure both parties remain accountable. 
+
 
 ### Scope
 
 A brief justification that the proposal is neither too easy nor too ambitious for a group of approximately 4 - 6 programmers to undertake in one semester.
-
-## Submission
-
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and subheadings for each section.
-
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
-
-Share the link to your document in your private assignments Discord channel AND in the public #project-ideas channel. In both cases, include the title of your project for all to see in the message.
-
-## What happens next
-
-We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire.
