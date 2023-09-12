@@ -2,7 +2,12 @@
 
 ## Secondhand Goods Trading Platform
 
-### Group Members: Paul Dai, Anthony Li, Steven Li, Anita Ye, Siqi Wang
+### Group Members: 
+## Paul Dai(bd2133)
+## Anthony Li(xl3317) 
+## Steven Li(zl3241)
+## Anita Ye(yy3557)
+## Siqi Wang(sw4895)
 
 ### What and why?
 
